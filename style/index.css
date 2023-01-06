@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans'
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.first-header {
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.banner-discription {
+    position: absolute;
+    top: 220px;
+    right: 230px;
+    text-align: right;
+}
+
+.btn-primary {
+    background-color: white;
+    color: blue;
+    position: absolute;
+    font-weight: 700;
+    border: o;
+    border-radius: 5px;
+    padding: 15px 26px;
+    top: 330px;
+    right: 0px;
+
+}
+
+.first-head {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.first-p {
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.first-section {
+    display: flex;
+    margin-left: 206px;
+}
+
+.second-image {
+    margin-top: 131px;
+}
+
+.second-header {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.second-p {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.li {
+    margin-bottom: 8px;
+}
+
+.second-discription {
+    margin-top: 370px;
+    margin-left: 87px;
+}
+
+.third-section {
+    display: flex;
+    
+    text-align: center;
+    justify-content: space-around;
+
+}
+
+.third-header {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/* .third-div:hover{
+    background-color: gray;
+    display: block;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
+    */
+
+
+.third-part {
+    margin-top: 130px;
+}
+.fourth-header{
+    font-weight: 700;
+font-size: 30px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+/* .fifth-div{
+    
+
+   background-image: url(../images/watch.png);
+    
+    margin-top: 130px;
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+
+} */
