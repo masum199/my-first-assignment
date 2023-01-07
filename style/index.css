@@ -28,10 +28,10 @@ body {
 
 .btn-primary {
     background-color: white;
-    color: blue;
+    color: #005FAC;
     position: absolute;
     font-weight: 700;
-    border: o;
+    border: none;
     border-radius: 5px;
     padding: 15px 26px;
     top: 330px;
@@ -96,7 +96,7 @@ body {
     font-size: 40px;
 }
 
-/* .third-div:hover{
+.third-div:hover{
     background-color: gray;
     display: block;
     padding: 10px;
@@ -104,7 +104,7 @@ body {
     width: 200px;
     border-radius: 5px;
 }
-    */
+   
 
 
 .third-part {
@@ -116,15 +116,107 @@ font-size: 30px;
 margin-top: 10px;
 margin-bottom: 10px;
 }
-/* .fifth-div{
-    
-
+.fifth-div{
    background-image: url(../images/watch.png);
-    
     margin-top: 130px;
     position: absolute;
 width: 1140px;
 height: 300px;
-left: 230px;
+left: 290px;
 
-} */
+}
+.fifth-header{
+   position: absolute;
+   text-align: left;
+   margin-left: 64px;
+   top: 60px;
+}
+.fifth-head{
+    font-weight: 700;
+font-size: 40px;
+margin-bottom: 24px;
+color: #FFFFFF;
+}
+.second-btn{
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2398.96px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #005FAC;
+    border: 0;
+}
+.footer{
+    margin-top: 500px;
+    color: #FFFFFF;
+    background-color: black;
+}
+.footer-end{
+    display: flex;
+    height: 577px
+
+}
+.future-footer{
+    margin-top: 130px;
+    margin-left: 290px;
+}
+.last-header{
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+.last-p{
+    margin-bottom: 24px;
+    font-size: 16px  
+ 
+}
+.last{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.email{
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    width: 325px;
+height: 63.04px;
+background-color: black;
+color: #F3F3F3;
+font-weight: 400;
+font-size: 18px;
+}
+.last-btn{
+    margin-top: 16px;
+    width: 170.11px;
+height: 64px;
+font-weight: 600;
+font-size: 20px;
+background: #005FAC;
+border-radius: 8px;
+color: #FFFFFF;
+}
+/* my section */
+.about-me{
+    margin-top: 100px;
+    
+}
+.src{
+width: 100px;
+height: 100px;
+margin-bottom: 16px;
+}
+.what-i-like{
+    display: flex;
+    width: 1540px;
+    margin-top: 70px;
+    text-align: center;
+    background-image: linear-gradient(blue,gray);
+   margin-left: 90px;
+    
+}
+.my-interest{
+    margin-left: 180px;
+    padding-top: 30px;
+  
+    
+}
+
